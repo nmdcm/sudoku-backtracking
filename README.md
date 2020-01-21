@@ -9,6 +9,6 @@ Steps to execute.
 ![SS2](https://github.com/nmdcm/sudoku-backtracking/blob/master/SS2.png)
 
 
-The program will solve the sudoku puzzle if possible and return the solution as well as the time take.
+The program will solve the sudoku puzzle if possible and return the solution as well as the time taken.
 
 Note: The program may take more time if the puzzle is more complex.
