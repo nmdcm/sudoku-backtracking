@@ -7,6 +7,8 @@ Steps to execute.
 ![SS1](https://github.com/nmdcm/sudoku-backtracking/blob/master/SS1.png)
 3. Copy the Sudoku board and paste it as the input to the python program and click enter if required.
 ![SS2](https://github.com/nmdcm/sudoku-backtracking/blob/master/SS2.png)
+
+
 The program will solve the sudoku puzzle if possible and return the solution as well as the time take.
 
 Note: The program may take more time if the puzzle is more complex.
